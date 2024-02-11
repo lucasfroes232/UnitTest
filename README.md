@@ -20,13 +20,14 @@ Após a execução dos testes, verifique os resultados para garantir que todas a
     subtrai(a, b): Retorna a diferença entre os dois números passados como argumentos.
     multiplica(a,b): Retorna o produto entre os dois números passados como argumentos.
     divide(a,b): Retorna a divisão entre os dois números passados como argumentos.
-    Sobre a classe Circle:
+    
+Sobre a classe Circle:
     A classe Circle representa um círculo. Ela possui um atributo radius que armazena o raio do círculo e dois métodos:
     
     area(): Calcula e retorna a área do círculo com base no raio.
     circumference(): Calcula e retorna a circunferência do círculo com base no raio.
-    
-    Sobre a classe Person:
+
+Sobre a classe Person
     A classe Person representa uma pessoa. Ela possui dois atributos, name e age, que armazenam o nome e a idade da pessoa, respectivamente. Além disso, possui dois métodos:
     
     update_age(new_age): Atualiza a idade da pessoa para um novo valor fornecido como argumento.
