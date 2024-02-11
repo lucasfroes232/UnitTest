@@ -3,7 +3,7 @@
 2. Navegar para o diretório do projeto:
     cd <diretório_do_projeto>
 3. Executar a aplicação:
-    python main.py
+    python arquivo.py
 4. Executar os testes unitários
     Execute os testes unitários para verificar se as classes funcionam conforme esperado:
     python testes_unitarios.py
