@@ -1,8 +1,8 @@
-1. Clonar o repositório
+1. Clonar o repositório:
     git clone <URL do repositório>
-2. Navegar para o diretório do projeto
+2. Navegar para o diretório do projeto:
     cd <diretório_do_projeto>
-3. Executar a aplicação
+3. Executar a aplicação:
     python main.py
 4. Executar os testes unitários
     Execute os testes unitários para verificar se as classes funcionam conforme esperado:
